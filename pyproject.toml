@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "persona-demo"
+version = "0.1.0"
+description = ""
+authors = ["yashikota <52403688+yashikota@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mediapipe = "^0.10.10"
+python-osc = "^1.8.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
