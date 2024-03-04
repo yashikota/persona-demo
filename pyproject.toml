@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "persona-demo"
+name = "persona-prototype"
 version = "0.1.0"
 description = ""
 authors = ["yashikota <52403688+yashikota@users.noreply.github.com>"]
